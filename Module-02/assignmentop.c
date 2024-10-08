@@ -1,9 +1,7 @@
 #include <stdio.h>
 int main()
 {
-   int a;
-   printf("Input a Number:");
-   scanf("%d", &a);
+   int a = 11;
    a += 10;
    printf("%d", a); // Output : 21
    return 0;
