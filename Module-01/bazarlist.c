@@ -13,4 +13,5 @@ int main()
    printf("Fullcopy : %d \n", full_copy);
    printf("My total cost: %f \n", brin_jel + vegetable + full_copy + morich + tomato);
    return 0;
+ // Just Edit for Git Push
 }
