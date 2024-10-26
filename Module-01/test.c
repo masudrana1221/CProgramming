@@ -7,5 +7,3 @@ int main(){
    
    return 0;
 }
-
-// edit for github push
