@@ -4,5 +4,4 @@ int main(){
    scanf("%lf", &a);
    printf("print Float number: %.4lf", a);
    return 0;
-// for github push
 }
